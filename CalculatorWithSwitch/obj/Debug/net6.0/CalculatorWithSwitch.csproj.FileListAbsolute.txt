@@ -1,0 +1,15 @@
+/Users/elijahamoako/Projects/CalculatorWithSwitch/CalculatorWithSwitch/bin/Debug/net6.0/CalculatorWithSwitch
+/Users/elijahamoako/Projects/CalculatorWithSwitch/CalculatorWithSwitch/bin/Debug/net6.0/CalculatorWithSwitch.deps.json
+/Users/elijahamoako/Projects/CalculatorWithSwitch/CalculatorWithSwitch/bin/Debug/net6.0/CalculatorWithSwitch.runtimeconfig.json
+/Users/elijahamoako/Projects/CalculatorWithSwitch/CalculatorWithSwitch/bin/Debug/net6.0/CalculatorWithSwitch.dll
+/Users/elijahamoako/Projects/CalculatorWithSwitch/CalculatorWithSwitch/bin/Debug/net6.0/CalculatorWithSwitch.pdb
+/Users/elijahamoako/Projects/CalculatorWithSwitch/CalculatorWithSwitch/obj/Debug/net6.0/CalculatorWithSwitch.csproj.AssemblyReference.cache
+/Users/elijahamoako/Projects/CalculatorWithSwitch/CalculatorWithSwitch/obj/Debug/net6.0/CalculatorWithSwitch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elijahamoako/Projects/CalculatorWithSwitch/CalculatorWithSwitch/obj/Debug/net6.0/CalculatorWithSwitch.AssemblyInfoInputs.cache
+/Users/elijahamoako/Projects/CalculatorWithSwitch/CalculatorWithSwitch/obj/Debug/net6.0/CalculatorWithSwitch.AssemblyInfo.cs
+/Users/elijahamoako/Projects/CalculatorWithSwitch/CalculatorWithSwitch/obj/Debug/net6.0/CalculatorWithSwitch.csproj.CoreCompileInputs.cache
+/Users/elijahamoako/Projects/CalculatorWithSwitch/CalculatorWithSwitch/obj/Debug/net6.0/CalculatorWithSwitch.dll
+/Users/elijahamoako/Projects/CalculatorWithSwitch/CalculatorWithSwitch/obj/Debug/net6.0/refint/CalculatorWithSwitch.dll
+/Users/elijahamoako/Projects/CalculatorWithSwitch/CalculatorWithSwitch/obj/Debug/net6.0/CalculatorWithSwitch.pdb
+/Users/elijahamoako/Projects/CalculatorWithSwitch/CalculatorWithSwitch/obj/Debug/net6.0/CalculatorWithSwitch.genruntimeconfig.cache
+/Users/elijahamoako/Projects/CalculatorWithSwitch/CalculatorWithSwitch/obj/Debug/net6.0/ref/CalculatorWithSwitch.dll
