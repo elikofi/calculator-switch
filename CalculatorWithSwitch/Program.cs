@@ -2,9 +2,7 @@
 do
 {
     //creating the variables
-    double num1 = 0;
-    double num2 = 0;
-    double result = 0;
+    double num1, num2, result = 0;
 
     //header
     Console.WriteLine("__________________");
@@ -25,6 +23,7 @@ do
     Console.WriteLine("\t- : Subtraction");
     Console.WriteLine("\t* : Multiplication");
     Console.WriteLine("\t/ : Division");
+    Console.WriteLine("\t^ : Exponent");
     Console.Write("Enter an operator: ");
 
     //switch statement
@@ -45,6 +44,10 @@ do
         case "/":
             result = num1 / num2;
             Console.WriteLine($"The result: {num1} / {num2} = {result}");
+            break;
+        case "^":
+            result = Math.Pow(num1, num2);
+            Console.WriteLine($"The result: {num1} ^ {num2} = {result}");
             break;
         default:
             Console.WriteLine("You chose an invalid operator.");
